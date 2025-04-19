@@ -36,15 +36,14 @@ The performance of the model is evaluated using Mean Squared Error (MSE) and R²
 Usage
 Clone the repository:
 
-sh
-Copy code
+```bash
 git clone https://github.com/your-username/who-life-expectancy-prediction.git
 cd who-life-expectancy-prediction
 Install dependencies:
-
-sh
-Copy code
+```
+```sh
 pip install -r requirements.txt
+```
 Run the Jupyter Notebook:
 
 sh
